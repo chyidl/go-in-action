@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	_ "./matchers"
-	"github.com/goinaction/code/chapter2/sample/search"
+	_ "github.com/chyidl/go-in-action/chapter2/sample/matchers"
+	"github.com/chyidl/go-in-action/chapter2/sample/search"
 )
 
 // init is called prior to main.
